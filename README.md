@@ -1,4 +1,4 @@
-# DevOpsTest
+# devops-flask-test
 
 # Реализация 1-ой части задания:
 Dockerfile создан
